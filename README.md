@@ -5,9 +5,9 @@ In this SQL project we explore movie popularity, customer spending, and catalog 
 BUSINESS QUESTIONS
 1. Which are the five highest-rated movies?           query: top5.sql
 2. Which movies are rented most often?                query: most_rented.sql
-   Alternative CTE approach:                         query: CTE_total_movie.sql
-3. Which customers spend the most on rentals?         query: CTE_total_costs.sql
-4. Which movies have never been rented?               query: no_rent.sql
+3. Alternative CTE approach:                         query: CTE_total_movie.sql
+4. Which customers spend the most on rentals?         query: CTE_total_costs.sql
+5. Which movies have never been rented?               query: no_rent.sql
 
 KEY FINDINGS
 - Highest-rated movie: Paper Lanterns (rating: 8.7).
